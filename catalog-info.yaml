@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test2
+  annotations:
+    github.com/project-slug: menna-hussien/test2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: re-use-global
